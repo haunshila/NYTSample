@@ -1,0 +1,22 @@
+version: "Apple Swift version 4.2 (swiftlang-1000.11.37.1 clang-1000.11.45.1)"
+options: "aad447c31f82f27286dbd13a726edbf1"
+build_time: [1538990725, 507194000]
+inputs:
+  "/Users/hauyadav/Learn/nysample/NYTSample/NYTSample/Util/Bindable.swift": [1538942856, 0]
+  "/Users/hauyadav/Learn/nysample/NYTSample/NYTSampleTests/Model/ArticleResponseTests.swift": [1538989804, 0]
+  "/Users/hauyadav/Learn/nysample/NYTSample/NYTSampleTests/Util/BindableTests.swift": [1538982314, 0]
+  "/Users/hauyadav/Learn/nysample/NYTSample/NYTSampleTests/Mock/MockArticle.swift": [1538984864, 0]
+  "/Users/hauyadav/Learn/nysample/NYTSample/NYTSample/Util/JSON.swift": [1538941917, 0]
+  "/Users/hauyadav/Learn/nysample/NYTSample/NYTSample/Model/MediaModel.swift": [1538942538, 0]
+  "/Users/hauyadav/Learn/nysample/NYTSample/NYTSampleTests/NYTSampleTests.swift": [1538932456, 0]
+  "/Users/hauyadav/Learn/nysample/NYTSample/NYTSample/ViewModel/ArticlesTableViewModel.swift": [1538984913, 0]
+  "/Users/hauyadav/Learn/nysample/NYTSample/NYTSampleTests/Util/AlertTests.swift": [1538982314, 0]
+  "/Users/hauyadav/Learn/nysample/NYTSample/NYTSample/Util/Alert.swift": [1538942918, 0]
+  "/Users/hauyadav/Learn/nysample/NYTSample/NYTSample/Model/ArticleModel.swift": [1538947958, 0]
+  "/Users/hauyadav/Learn/nysample/NYTSample/NYTSample/Model/MediaMetadata.swift": [1538947930, 0]
+  "/Users/hauyadav/Learn/nysample/NYTSample/NYTSample/Model/ArticleResponse.swift": [1538947491, 0]
+  "/Users/hauyadav/Learn/nysample/NYTSample/NYTSample/ViewModel/ArticleCellViewModel.swift": [1538949657, 0]
+  "/Users/hauyadav/Learn/nysample/NYTSample/NYTSampleTests/ViewModel/ArticlesTableVIewModelTests.swift": [1538984922, 0]
+  "/Users/hauyadav/Learn/nysample/NYTSample/NYTSample/Service/APIClient.swift": [1538948406, 0]
+  "/Users/hauyadav/Learn/nysample/NYTSample/NYTSample/Util/Result.swift": [1538984492, 0]
+  "/Users/hauyadav/Learn/nysample/NYTSample/NYTSample/Util/Constant.swift": [1538935903, 0]

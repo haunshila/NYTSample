@@ -1,0 +1,248 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [
+    {
+      'type': 'directory',
+      'name': "/Users/hauyadav/Learn/nysample/NYTSample/Build/Build/Products/Debug-iphonesimulator/Alamofire/Alamofire.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "Alamofire-Swift.h",
+          'external-contents': "/Users/hauyadav/Learn/nysample/NYTSample/Build/Build/Products/Debug-iphonesimulator/Alamofire/Alamofire.framework/Headers/Alamofire-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "Alamofire-umbrella.h",
+          'external-contents': "/Users/hauyadav/Learn/nysample/NYTSample/Pods/Target Support Files/Alamofire/Alamofire-umbrella.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/hauyadav/Learn/nysample/NYTSample/Build/Build/Products/Debug-iphonesimulator/Alamofire/Alamofire.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/hauyadav/Learn/nysample/NYTSample/Build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Alamofire.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/hauyadav/Learn/nysample/NYTSample/Build/Build/Products/Debug-iphonesimulator/PKHUD/PKHUD.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "PKHUD-Swift.h",
+          'external-contents': "/Users/hauyadav/Learn/nysample/NYTSample/Build/Build/Products/Debug-iphonesimulator/PKHUD/PKHUD.framework/Headers/PKHUD-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "PKHUD-umbrella.h",
+          'external-contents': "/Users/hauyadav/Learn/nysample/NYTSample/Pods/Target Support Files/PKHUD/PKHUD-umbrella.h"
+        },
+        {
+          'type': 'file',
+          'name': "PKHUD.h",
+          'external-contents': "/Users/hauyadav/Learn/nysample/NYTSample/Pods/PKHUD/PKHUD/PKHUD.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/hauyadav/Learn/nysample/NYTSample/Build/Build/Products/Debug-iphonesimulator/PKHUD/PKHUD.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/hauyadav/Learn/nysample/NYTSample/Build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/PKHUD.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/hauyadav/Learn/nysample/NYTSample/Build/Build/Products/Debug-iphonesimulator/Pods_NYTSample.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "Pods-NYTSample-umbrella.h",
+          'external-contents': "/Users/hauyadav/Learn/nysample/NYTSample/Pods/Target Support Files/Pods-NYTSample/Pods-NYTSample-umbrella.h"
+        },
+        {
+          'type': 'file',
+          'name': "Pods_NYTSample-Swift.h",
+          'external-contents': "/Users/hauyadav/Learn/nysample/NYTSample/Build/Build/Products/Debug-iphonesimulator/Pods_NYTSample.framework/Headers/Pods_NYTSample-Swift.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/hauyadav/Learn/nysample/NYTSample/Build/Build/Products/Debug-iphonesimulator/Pods_NYTSample.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/hauyadav/Learn/nysample/NYTSample/Build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Pods-NYTSample.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/hauyadav/Learn/nysample/NYTSample/Build/Build/Products/Debug-iphonesimulator/Pods_NYTSampleTests.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "Pods-NYTSampleTests-umbrella.h",
+          'external-contents': "/Users/hauyadav/Learn/nysample/NYTSample/Pods/Target Support Files/Pods-NYTSampleTests/Pods-NYTSampleTests-umbrella.h"
+        },
+        {
+          'type': 'file',
+          'name': "Pods_NYTSampleTests-Swift.h",
+          'external-contents': "/Users/hauyadav/Learn/nysample/NYTSample/Build/Build/Products/Debug-iphonesimulator/Pods_NYTSampleTests.framework/Headers/Pods_NYTSampleTests-Swift.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/hauyadav/Learn/nysample/NYTSample/Build/Build/Products/Debug-iphonesimulator/Pods_NYTSampleTests.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/hauyadav/Learn/nysample/NYTSample/Build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Pods-NYTSampleTests.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/hauyadav/Learn/nysample/NYTSample/Build/Build/Products/Debug-iphonesimulator/Pods_NYTSampleUITests.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "Pods-NYTSampleUITests-umbrella.h",
+          'external-contents': "/Users/hauyadav/Learn/nysample/NYTSample/Pods/Target Support Files/Pods-NYTSampleUITests/Pods-NYTSampleUITests-umbrella.h"
+        },
+        {
+          'type': 'file',
+          'name': "Pods_NYTSampleUITests-Swift.h",
+          'external-contents': "/Users/hauyadav/Learn/nysample/NYTSample/Build/Build/Products/Debug-iphonesimulator/Pods_NYTSampleUITests.framework/Headers/Pods_NYTSampleUITests-Swift.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/hauyadav/Learn/nysample/NYTSample/Build/Build/Products/Debug-iphonesimulator/Pods_NYTSampleUITests.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/hauyadav/Learn/nysample/NYTSample/Build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Pods-NYTSampleUITests.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/hauyadav/Learn/nysample/NYTSample/Build/Build/Products/Debug-iphonesimulator/SDWebImage/SDWebImage.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "NSData+ImageContentType.h",
+          'external-contents': "/Users/hauyadav/Learn/nysample/NYTSample/Pods/SDWebImage/SDWebImage/NSData+ImageContentType.h"
+        },
+        {
+          'type': 'file',
+          'name': "SDImageCache.h",
+          'external-contents': "/Users/hauyadav/Learn/nysample/NYTSample/Pods/SDWebImage/SDWebImage/SDImageCache.h"
+        },
+        {
+          'type': 'file',
+          'name': "SDWebImage-Swift.h",
+          'external-contents': "/Users/hauyadav/Learn/nysample/NYTSample/Build/Build/Products/Debug-iphonesimulator/SDWebImage/SDWebImage.framework/Headers/SDWebImage-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "SDWebImage-umbrella.h",
+          'external-contents': "/Users/hauyadav/Learn/nysample/NYTSample/Pods/Target Support Files/SDWebImage/SDWebImage-umbrella.h"
+        },
+        {
+          'type': 'file',
+          'name': "SDWebImageCompat.h",
+          'external-contents': "/Users/hauyadav/Learn/nysample/NYTSample/Pods/SDWebImage/SDWebImage/SDWebImageCompat.h"
+        },
+        {
+          'type': 'file',
+          'name': "SDWebImageDecoder.h",
+          'external-contents': "/Users/hauyadav/Learn/nysample/NYTSample/Pods/SDWebImage/SDWebImage/SDWebImageDecoder.h"
+        },
+        {
+          'type': 'file',
+          'name': "SDWebImageDownloader.h",
+          'external-contents': "/Users/hauyadav/Learn/nysample/NYTSample/Pods/SDWebImage/SDWebImage/SDWebImageDownloader.h"
+        },
+        {
+          'type': 'file',
+          'name': "SDWebImageDownloaderOperation.h",
+          'external-contents': "/Users/hauyadav/Learn/nysample/NYTSample/Pods/SDWebImage/SDWebImage/SDWebImageDownloaderOperation.h"
+        },
+        {
+          'type': 'file',
+          'name': "SDWebImageManager.h",
+          'external-contents': "/Users/hauyadav/Learn/nysample/NYTSample/Pods/SDWebImage/SDWebImage/SDWebImageManager.h"
+        },
+        {
+          'type': 'file',
+          'name': "SDWebImageOperation.h",
+          'external-contents': "/Users/hauyadav/Learn/nysample/NYTSample/Pods/SDWebImage/SDWebImage/SDWebImageOperation.h"
+        },
+        {
+          'type': 'file',
+          'name': "SDWebImagePrefetcher.h",
+          'external-contents': "/Users/hauyadav/Learn/nysample/NYTSample/Pods/SDWebImage/SDWebImage/SDWebImagePrefetcher.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIButton+WebCache.h",
+          'external-contents': "/Users/hauyadav/Learn/nysample/NYTSample/Pods/SDWebImage/SDWebImage/UIButton+WebCache.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIImage+GIF.h",
+          'external-contents': "/Users/hauyadav/Learn/nysample/NYTSample/Pods/SDWebImage/SDWebImage/UIImage+GIF.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIImage+MultiFormat.h",
+          'external-contents': "/Users/hauyadav/Learn/nysample/NYTSample/Pods/SDWebImage/SDWebImage/UIImage+MultiFormat.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIImageView+HighlightedWebCache.h",
+          'external-contents': "/Users/hauyadav/Learn/nysample/NYTSample/Pods/SDWebImage/SDWebImage/UIImageView+HighlightedWebCache.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIImageView+WebCache.h",
+          'external-contents': "/Users/hauyadav/Learn/nysample/NYTSample/Pods/SDWebImage/SDWebImage/UIImageView+WebCache.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIView+WebCacheOperation.h",
+          'external-contents': "/Users/hauyadav/Learn/nysample/NYTSample/Pods/SDWebImage/SDWebImage/UIView+WebCacheOperation.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/hauyadav/Learn/nysample/NYTSample/Build/Build/Products/Debug-iphonesimulator/SDWebImage/SDWebImage.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/hauyadav/Learn/nysample/NYTSample/Build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SDWebImage.build/module.modulemap"
+        }
+      ]
+    }
+  ]
+}

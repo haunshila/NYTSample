@@ -1,0 +1,334 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "ArticlesTableVIewModelTests"
+provides-nominal:
+- "14NYTSampleTests022ArticlesTableVIewModelB0C"
+provides-member:
+- ["14NYTSampleTests022ArticlesTableVIewModelB0C", ""]
+provides-dynamic-lookup:
+- "testEmptyArticleCells"
+- "testErrorArticleCells"
+- "testNormalArticleCells"
+depends-top-level:
+- "APIClient"
+- !private "Array"
+- !private "ArticleResponse"
+- "ArticlesTableVIewModelTests"
+- !private "ArticlesTableViewModel"
+- "AssignmentPrecedence"
+- !private "FloatLiteralType"
+- !private "IntegerLiteralType"
+- !private "MockAppServerClient"
+- !private "StringLiteralType"
+- !private "XCTFail"
+- "XCTestCase"
+depends-member:
+- ["14NYTSampleTests9APIClientC", "APIClient"]
+- ["14NYTSampleTests9APIClientC", "GetArticlesCompletion"]
+- !private ["14NYTSampleTests9APIClientC", "GetArticlesFailureReason"]
+- ["14NYTSampleTests9APIClientC", "GetArticlesResult"]
+- !private ["14NYTSampleTests9APIClientC", ""]
+- ["14NYTSampleTests9APIClientC", "getArticles"]
+- ["14NYTSampleTests9APIClientC", "getArticlesResult"]
+- ["14NYTSampleTests9APIClientC", "init"]
+- !private ["14NYTSampleTests9APIClientC", "init"]
+- !private ["Sa", "first"]
+- !private ["s13ArrayProtocolP", "first"]
+- !private ["14NYTSampleTests15ArticleResponseV", "noArticles"]
+- !private ["14NYTSampleTests15ArticleResponseV", "with"]
+- ["14NYTSampleTests22ArticlesTableViewModelC07ArticledE8CellTypeO", "empty"]
+- ["14NYTSampleTests22ArticlesTableViewModelC07ArticledE8CellTypeO", "error"]
+- ["14NYTSampleTests22ArticlesTableViewModelC07ArticledE8CellTypeO", "normal"]
+- !private ["14NYTSampleTests022ArticlesTableVIewModelB0C", "APIClient"]
+- !private ["14NYTSampleTests022ArticlesTableVIewModelB0C", "ArticleResponse"]
+- !private ["14NYTSampleTests022ArticlesTableVIewModelB0C", "ArticlesTableViewModel"]
+- !private ["14NYTSampleTests022ArticlesTableVIewModelB0C", "MockAppServerClient"]
+- !private ["14NYTSampleTests022ArticlesTableVIewModelB0C", "XCTFail"]
+- ["14NYTSampleTests022ArticlesTableVIewModelB0C", "init"]
+- ["14NYTSampleTests022ArticlesTableVIewModelB0C", "testEmptyArticleCells"]
+- ["14NYTSampleTests022ArticlesTableVIewModelB0C", "testErrorArticleCells"]
+- ["14NYTSampleTests022ArticlesTableVIewModelB0C", "testNormalArticleCells"]
+- !private ["14NYTSampleTests22ArticlesTableViewModelC", "articleCells"]
+- !private ["14NYTSampleTests22ArticlesTableViewModelC", "getArticles"]
+- !private ["14NYTSampleTests22ArticlesTableViewModelC", "init"]
+- !private ["SK", "first"]
+- !private ["14NYTSampleTests8BindableC", "value"]
+- !private ["s7CVarArgP", "APIClient"]
+- !private ["s7CVarArgP", "ArticleResponse"]
+- !private ["s7CVarArgP", "ArticlesTableViewModel"]
+- !private ["s7CVarArgP", "MockAppServerClient"]
+- !private ["s7CVarArgP", "XCTFail"]
+- ["s7CVarArgP", ""]
+- !private ["s7CVarArgP", "first"]
+- !private ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "init"]
+- !private ["Sl", "first"]
+- !private ["s28CustomDebugStringConvertibleP", "APIClient"]
+- !private ["s28CustomDebugStringConvertibleP", "ArticleResponse"]
+- !private ["s28CustomDebugStringConvertibleP", "ArticlesTableViewModel"]
+- !private ["s28CustomDebugStringConvertibleP", "MockAppServerClient"]
+- !private ["s28CustomDebugStringConvertibleP", "XCTFail"]
+- ["s28CustomDebugStringConvertibleP", ""]
+- !private ["s28CustomDebugStringConvertibleP", "failure"]
+- !private ["s28CustomDebugStringConvertibleP", "first"]
+- !private ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "init"]
+- ["s28CustomDebugStringConvertibleP", "some"]
+- !private ["s28CustomDebugStringConvertibleP", "success"]
+- !private ["s17CustomReflectableP", "failure"]
+- !private ["s17CustomReflectableP", "first"]
+- !private ["s17CustomReflectableP", "init"]
+- !private ["s17CustomReflectableP", "init"]
+- ["s17CustomReflectableP", "some"]
+- !private ["s17CustomReflectableP", "success"]
+- !private ["s23CustomStringConvertibleP", "APIClient"]
+- !private ["s23CustomStringConvertibleP", "ArticleResponse"]
+- !private ["s23CustomStringConvertibleP", "ArticlesTableViewModel"]
+- !private ["s23CustomStringConvertibleP", "MockAppServerClient"]
+- !private ["s23CustomStringConvertibleP", "XCTFail"]
+- ["s23CustomStringConvertibleP", ""]
+- !private ["s23CustomStringConvertibleP", "first"]
+- !private ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "init"]
+- !private ["Se", "failure"]
+- !private ["Se", "first"]
+- !private ["Se", "noArticles"]
+- ["Se", "some"]
+- !private ["Se", "success"]
+- !private ["Se", "with"]
+- !private ["SE", "failure"]
+- !private ["SE", "first"]
+- !private ["SE", "noArticles"]
+- ["SE", "some"]
+- !private ["SE", "success"]
+- !private ["SE", "with"]
+- !private ["SQ", "APIClient"]
+- !private ["SQ", "ArticleResponse"]
+- !private ["SQ", "ArticlesTableViewModel"]
+- !private ["SQ", "MockAppServerClient"]
+- !private ["SQ", "XCTFail"]
+- ["SQ", ""]
+- !private ["SQ", "failure"]
+- !private ["SQ", "first"]
+- !private ["SQ", "init"]
+- !private ["SQ", "init"]
+- !private ["SQ", "notFound"]
+- ["SQ", "some"]
+- !private ["SQ", "success"]
+- !private ["s5ErrorP", "notFound"]
+- !private ["s25ExpressibleByArrayLiteralP", "first"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s23ExpressibleByNilLiteralP", "failure"]
+- ["s23ExpressibleByNilLiteralP", "some"]
+- !private ["s23ExpressibleByNilLiteralP", "success"]
+- !private ["s26ExpressibleByStringLiteralP", "init"]
+- !private ["s26ExpressibleByStringLiteralP", "init"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "init"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "init"]
+- !private ["14NYTSampleTests9APIClientC24GetArticlesFailureReasonO", "deinit"]
+- !private ["14NYTSampleTests9APIClientC24GetArticlesFailureReasonO", "notFound"]
+- !private ["SH", "APIClient"]
+- !private ["SH", "ArticleResponse"]
+- !private ["SH", "ArticlesTableViewModel"]
+- !private ["SH", "MockAppServerClient"]
+- !private ["SH", "XCTFail"]
+- ["SH", ""]
+- !private ["SH", "failure"]
+- !private ["SH", "first"]
+- !private ["SH", "init"]
+- !private ["SH", "init"]
+- !private ["SH", "notFound"]
+- ["SH", "some"]
+- !private ["SH", "success"]
+- !private ["SM", "first"]
+- !private ["So8NSObjectC", "APIClient"]
+- !private ["So8NSObjectC", "ArticleResponse"]
+- !private ["So8NSObjectC", "ArticlesTableViewModel"]
+- !private ["So8NSObjectC", "MockAppServerClient"]
+- !private ["So8NSObjectC", "XCTFail"]
+- ["So8NSObjectC", "init"]
+- !private ["So8NSObjectC", "init"]
+- ["So8NSObjectC", "testEmptyArticleCells"]
+- ["So8NSObjectC", "testErrorArticleCells"]
+- ["So8NSObjectC", "testNormalArticleCells"]
+- !private ["So8NSObjectP", "APIClient"]
+- !private ["So8NSObjectP", "ArticleResponse"]
+- !private ["So8NSObjectP", "ArticlesTableViewModel"]
+- !private ["So8NSObjectP", "MockAppServerClient"]
+- !private ["So8NSObjectP", "XCTFail"]
+- ["So8NSObjectP", ""]
+- !private ["So8NSObjectP", "init"]
+- !private ["So8NSObjectP", "init"]
+- !private ["Sq", "failure"]
+- ["Sq", "some"]
+- !private ["Sq", "success"]
+- !private ["Sk", "first"]
+- !private ["Sm", "first"]
+- !private ["SY", "notFound"]
+- !private ["14NYTSampleTests6ResultO", "failure"]
+- !private ["14NYTSampleTests6ResultO", "success"]
+- !private ["ST", "first"]
+- !private ["s12StaticStringV", "init"]
+- !private ["s12StaticStringV", "init"]
+- !private ["So11XCTActivityP", "APIClient"]
+- !private ["So11XCTActivityP", "ArticleResponse"]
+- !private ["So11XCTActivityP", "ArticlesTableViewModel"]
+- !private ["So11XCTActivityP", "MockAppServerClient"]
+- !private ["So11XCTActivityP", "XCTFail"]
+- ["So11XCTActivityP", ""]
+- !private ["So11XCTActivityP", "init"]
+- !private ["So11XCTActivityP", "init"]
+- !private ["So17XCTWaiterDelegateP", "APIClient"]
+- !private ["So17XCTWaiterDelegateP", "ArticleResponse"]
+- !private ["So17XCTWaiterDelegateP", "ArticlesTableViewModel"]
+- !private ["So17XCTWaiterDelegateP", "MockAppServerClient"]
+- !private ["So17XCTWaiterDelegateP", "XCTFail"]
+- ["So17XCTWaiterDelegateP", ""]
+- !private ["So17XCTWaiterDelegateP", "init"]
+- !private ["So17XCTWaiterDelegateP", "init"]
+- !private ["So6XCTestC", "APIClient"]
+- !private ["So6XCTestC", "ArticleResponse"]
+- !private ["So6XCTestC", "ArticlesTableViewModel"]
+- !private ["So6XCTestC", "MockAppServerClient"]
+- !private ["So6XCTestC", "XCTFail"]
+- ["So6XCTestC", "init"]
+- !private ["So6XCTestC", "init"]
+- ["So6XCTestC", "testEmptyArticleCells"]
+- ["So6XCTestC", "testErrorArticleCells"]
+- ["So6XCTestC", "testNormalArticleCells"]
+- !private ["So10XCTestCaseC", "APIClient"]
+- !private ["So10XCTestCaseC", "ArticleResponse"]
+- !private ["So10XCTestCaseC", "ArticlesTableViewModel"]
+- !private ["So10XCTestCaseC", "MockAppServerClient"]
+- !private ["So10XCTestCaseC", "XCTFail"]
+- ["So10XCTestCaseC", ""]
+- ["So10XCTestCaseC", "init"]
+- !private ["So10XCTestCaseC", "init"]
+- ["So10XCTestCaseC", "testEmptyArticleCells"]
+- ["So10XCTestCaseC", "testErrorArticleCells"]
+- ["So10XCTestCaseC", "testNormalArticleCells"]
+- !private ["s24_DestructorSafeContainerP", "first"]
+- !private ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "init"]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "init"]
+- !private ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "init"]
+- !private ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "init"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "first"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "APIClient"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "ArticleResponse"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "ArticlesTableViewModel"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "MockAppServerClient"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "XCTFail"]
+- ["10Foundation27_KeyValueCodingAndObservingP", ""]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "init"]
+- !private ["s21_ObjectiveCBridgeableP", "failure"]
+- !private ["s21_ObjectiveCBridgeableP", "first"]
+- ["s21_ObjectiveCBridgeableP", "some"]
+- !private ["s21_ObjectiveCBridgeableP", "success"]
+depends-nominal:
+- "14NYTSampleTests9APIClientC"
+- !private "Sa"
+- !private "s13ArrayProtocolP"
+- !private "14NYTSampleTests15ArticleResponseV"
+- "14NYTSampleTests22ArticlesTableViewModelC07ArticledE8CellTypeO"
+- "14NYTSampleTests022ArticlesTableVIewModelB0C"
+- !private "14NYTSampleTests22ArticlesTableViewModelC"
+- !private "SK"
+- !private "14NYTSampleTests8BindableC"
+- "s7CVarArgP"
+- !private "Sl"
+- "s28CustomDebugStringConvertibleP"
+- "s17CustomReflectableP"
+- "s23CustomStringConvertibleP"
+- "Se"
+- "SE"
+- "SQ"
+- !private "s5ErrorP"
+- !private "s25ExpressibleByArrayLiteralP"
+- !private "s43ExpressibleByExtendedGraphemeClusterLiteralP"
+- "s23ExpressibleByNilLiteralP"
+- !private "s26ExpressibleByStringLiteralP"
+- !private "s33ExpressibleByUnicodeScalarLiteralP"
+- !private "14NYTSampleTests9APIClientC24GetArticlesFailureReasonO"
+- "SH"
+- !private "SM"
+- "So8NSObjectC"
+- "So8NSObjectP"
+- "Sq"
+- !private "Sk"
+- !private "Sm"
+- !private "SY"
+- !private "14NYTSampleTests6ResultO"
+- !private "ST"
+- !private "s12StaticStringV"
+- "So11XCTActivityP"
+- "So17XCTWaiterDelegateP"
+- "So6XCTestC"
+- "So10XCTestCaseC"
+- !private "s24_DestructorSafeContainerP"
+- !private "s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP"
+- !private "s34_ExpressibleByBuiltinStringLiteralP"
+- !private "s41_ExpressibleByBuiltinUnicodeScalarLiteralP"
+- !private "s35_HasCustomAnyHashableRepresentationP"
+- "10Foundation27_KeyValueCodingAndObservingP"
+- "s21_ObjectiveCBridgeableP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.apinotesc"
+- "/Users/hauyadav/Learn/nysample/NYTSample/Build/Build/Products/Debug-iphonesimulator/PKHUD/PKHUD.framework/Modules/PKHUD.swiftmodule/x86_64.swiftmodule"
+- "/Users/hauyadav/Learn/nysample/NYTSample/Build/Build/Products/Debug-iphonesimulator/NYTSample.swiftmodule/x86_64.swiftmodule"
+- "/Users/hauyadav/Learn/nysample/NYTSample/Build/Build/Products/Debug-iphonesimulator/Alamofire/Alamofire.framework/Modules/Alamofire.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/QuartzCore.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Metal.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/XCTest.swiftmodule"
+- "/Users/hauyadav/Learn/nysample/NYTSample/Build/Build/Products/Debug-iphonesimulator/PKHUD/PKHUD.framework/Headers/PKHUD.h"
+- "/Users/hauyadav/Learn/nysample/NYTSample/Build/Build/Products/Debug-iphonesimulator/SDWebImage/SDWebImage.framework/Headers/UIImage+GIF.h"
+- "/Users/hauyadav/Learn/nysample/NYTSample/Build/Build/Products/Debug-iphonesimulator/PKHUD/PKHUD.framework/Headers/PKHUD-umbrella.h"
+- "/Users/hauyadav/Learn/nysample/NYTSample/Build/Build/Products/Debug-iphonesimulator/SDWebImage/SDWebImage.framework/Headers/SDWebImage-umbrella.h"
+- "/Users/hauyadav/Learn/nysample/NYTSample/Build/Build/Products/Debug-iphonesimulator/Alamofire/Alamofire.framework/Headers/Alamofire-umbrella.h"
+- "/Users/hauyadav/Learn/nysample/NYTSample/Build/Build/Products/Debug-iphonesimulator/SDWebImage/SDWebImage.framework/Headers/UIButton+WebCache.h"
+- "/Users/hauyadav/Learn/nysample/NYTSample/Build/Build/Products/Debug-iphonesimulator/SDWebImage/SDWebImage.framework/Headers/UIImageView+WebCache.h"
+- "/Users/hauyadav/Learn/nysample/NYTSample/Build/Build/Products/Debug-iphonesimulator/SDWebImage/SDWebImage.framework/Headers/UIImageView+HighlightedWebCache.h"
+- "/Users/hauyadav/Learn/nysample/NYTSample/Build/Build/Products/Debug-iphonesimulator/SDWebImage/SDWebImage.framework/Headers/SDImageCache.h"
+- "/Users/hauyadav/Learn/nysample/NYTSample/Build/Build/Products/Debug-iphonesimulator/SDWebImage/SDWebImage.framework/Headers/NSData+ImageContentType.h"
+- "/Users/hauyadav/Learn/nysample/NYTSample/Build/Build/Products/Debug-iphonesimulator/SDWebImage/SDWebImage.framework/Headers/SDWebImageOperation.h"
+- "/Users/hauyadav/Learn/nysample/NYTSample/Build/Build/Products/Debug-iphonesimulator/SDWebImage/SDWebImage.framework/Headers/UIView+WebCacheOperation.h"
+- "/Users/hauyadav/Learn/nysample/NYTSample/Build/Build/Products/Debug-iphonesimulator/SDWebImage/SDWebImage.framework/Headers/SDWebImageDownloaderOperation.h"
+- "/Users/hauyadav/Learn/nysample/NYTSample/Build/Build/Products/Debug-iphonesimulator/SDWebImage/SDWebImage.framework/Headers/SDWebImageDownloader.h"
+- "/Users/hauyadav/Learn/nysample/NYTSample/Build/Build/Products/Debug-iphonesimulator/SDWebImage/SDWebImage.framework/Headers/SDWebImageDecoder.h"
+- "/Users/hauyadav/Learn/nysample/NYTSample/Build/Build/Products/Debug-iphonesimulator/SDWebImage/SDWebImage.framework/Headers/SDWebImageManager.h"
+- "/Users/hauyadav/Learn/nysample/NYTSample/Build/Build/Products/Debug-iphonesimulator/SDWebImage/SDWebImage.framework/Headers/SDWebImagePrefetcher.h"
+- "/Users/hauyadav/Learn/nysample/NYTSample/Build/Build/Products/Debug-iphonesimulator/SDWebImage/SDWebImage.framework/Headers/UIImage+MultiFormat.h"
+- "/Users/hauyadav/Learn/nysample/NYTSample/Build/Build/Products/Debug-iphonesimulator/SDWebImage/SDWebImage.framework/Headers/SDWebImageCompat.h"
+- "/Users/hauyadav/Learn/nysample/NYTSample/Build/Build/Products/Debug-iphonesimulator/PKHUD/PKHUD.framework/Headers/PKHUD-Swift.h"
+- "/Users/hauyadav/Learn/nysample/NYTSample/Build/Build/Products/Debug-iphonesimulator/Alamofire/Alamofire.framework/Headers/Alamofire-Swift.h"
+- "/Users/hauyadav/Learn/nysample/NYTSample/Build/Build/Products/Debug-iphonesimulator/PKHUD/PKHUD.framework/Modules/module.modulemap"
+- "/Users/hauyadav/Learn/nysample/NYTSample/Build/Build/Products/Debug-iphonesimulator/SDWebImage/SDWebImage.framework/Modules/module.modulemap"
+- "/Users/hauyadav/Learn/nysample/NYTSample/Build/Build/Products/Debug-iphonesimulator/Alamofire/Alamofire.framework/Modules/module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/Library/Frameworks/XCTest.framework/Modules/module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/OpenGLES.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CoreImage.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/Library/Frameworks/XCTest.framework/Headers/XCTest.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "13fba636a65c306e5fa1f278e2e20db1"

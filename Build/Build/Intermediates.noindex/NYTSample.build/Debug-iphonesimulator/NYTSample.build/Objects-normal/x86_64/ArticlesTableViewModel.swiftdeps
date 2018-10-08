@@ -1,0 +1,309 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "ArticlesTableViewModel"
+provides-nominal:
+- "9NYTSample22ArticlesTableViewModelC"
+- "9NYTSample22ArticlesTableViewModelC07ArticlecD8CellTypeO"
+provides-member:
+- ["9NYTSample22ArticlesTableViewModelC", ""]
+- ["9NYTSample22ArticlesTableViewModelC07ArticlecD8CellTypeO", ""]
+provides-dynamic-lookup:
+depends-top-level:
+- !private ">"
+- !private "??"
+- "APIClient"
+- "Array"
+- "ArticleCellViewModel"
+- "ArticlesTableViewModel"
+- "AssignmentPrecedence"
+- "Bindable"
+- "BooleanLiteralType"
+- !private "CastingPrecedence"
+- "SingleButtonAlert"
+- "String"
+- "StringLiteralType"
+- "Void"
+depends-member:
+- ["9NYTSample9APIClientC", "GetArticlesFailureReason"]
+- !private ["9NYTSample9APIClientC", "getArticles"]
+- !private ["9NYTSample9APIClientC", "init"]
+- !private ["Sa", "compactMap"]
+- !private ["Sa", "count"]
+- ["Sa", "init"]
+- !private ["s13ArrayProtocolP", "compactMap"]
+- !private ["s13ArrayProtocolP", "count"]
+- ["s13ArrayProtocolP", "init"]
+- !private ["9NYTSample12ArticleModelV", "deinit"]
+- !private ["9NYTSample15ArticleResponseV", "articleModelList"]
+- ["9NYTSample22ArticlesTableViewModelC07ArticlecD8CellTypeO", "ArticleCellViewModel"]
+- ["9NYTSample22ArticlesTableViewModelC07ArticlecD8CellTypeO", "String"]
+- ["9NYTSample22ArticlesTableViewModelC07ArticlecD8CellTypeO", "empty"]
+- ["9NYTSample22ArticlesTableViewModelC07ArticlecD8CellTypeO", "error"]
+- ["9NYTSample22ArticlesTableViewModelC07ArticlecD8CellTypeO", "normal"]
+- ["9NYTSample22ArticlesTableViewModelC", "APIClient"]
+- ["9NYTSample22ArticlesTableViewModelC", "ArticleCellViewModel"]
+- ["9NYTSample22ArticlesTableViewModelC", "ArticleTableViewCellType"]
+- ["9NYTSample22ArticlesTableViewModelC", "Bindable"]
+- ["9NYTSample22ArticlesTableViewModelC", "SingleButtonAlert"]
+- ["9NYTSample22ArticlesTableViewModelC", "String"]
+- ["9NYTSample22ArticlesTableViewModelC", "Void"]
+- ["9NYTSample22ArticlesTableViewModelC", "appServerClient"]
+- ["9NYTSample22ArticlesTableViewModelC", "articleCells"]
+- ["9NYTSample22ArticlesTableViewModelC", "getArticles"]
+- ["9NYTSample22ArticlesTableViewModelC", "init"]
+- ["9NYTSample22ArticlesTableViewModelC", "onShowError"]
+- ["9NYTSample22ArticlesTableViewModelC", "showLoadingHud"]
+- !private ["SK", "compactMap"]
+- !private ["SK", "count"]
+- ["SK", "init"]
+- !private ["SK", "init"]
+- ["9NYTSample8BindableC", "init"]
+- !private ["9NYTSample8BindableC", "value"]
+- !private ["Sb", "_getBuiltinLogicValue"]
+- !private ["s7CVarArgP", "_getBuiltinLogicValue"]
+- !private ["s7CVarArgP", "compactMap"]
+- !private ["s7CVarArgP", "count"]
+- ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "init"]
+- !private ["Sl", "compactMap"]
+- !private ["Sl", "count"]
+- ["Sl", "init"]
+- !private ["Sl", "init"]
+- !private ["SL", "init"]
+- !private ["SL", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "compactMap"]
+- !private ["s28CustomDebugStringConvertibleP", "count"]
+- ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "normal"]
+- !private ["s29CustomPlaygroundQuickLookableP", "_getBuiltinLogicValue"]
+- !private ["s29CustomPlaygroundQuickLookableP", "init"]
+- !private ["s29CustomPlaygroundQuickLookableP", "init"]
+- !private ["s17CustomReflectableP", "_getBuiltinLogicValue"]
+- !private ["s17CustomReflectableP", "compactMap"]
+- !private ["s17CustomReflectableP", "count"]
+- ["s17CustomReflectableP", "init"]
+- !private ["s17CustomReflectableP", "init"]
+- !private ["s17CustomReflectableP", "normal"]
+- !private ["s23CustomStringConvertibleP", "_getBuiltinLogicValue"]
+- !private ["s23CustomStringConvertibleP", "compactMap"]
+- !private ["s23CustomStringConvertibleP", "count"]
+- ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "init"]
+- !private ["Se", "_getBuiltinLogicValue"]
+- !private ["Se", "articleModelList"]
+- !private ["Se", "compactMap"]
+- !private ["Se", "count"]
+- ["Se", "init"]
+- !private ["Se", "init"]
+- !private ["Se", "normal"]
+- !private ["SE", "_getBuiltinLogicValue"]
+- !private ["SE", "articleModelList"]
+- !private ["SE", "compactMap"]
+- !private ["SE", "count"]
+- ["SE", "init"]
+- !private ["SE", "init"]
+- !private ["SE", "normal"]
+- !private ["SQ", "_getBuiltinLogicValue"]
+- !private ["SQ", "compactMap"]
+- !private ["SQ", "count"]
+- !private ["SQ", "getErrorMessage"]
+- ["SQ", "init"]
+- !private ["SQ", "init"]
+- !private ["SQ", "normal"]
+- ["SQ", "notFound"]
+- ["SQ", "unAuthorized"]
+- !private ["s5ErrorP", "getErrorMessage"]
+- ["s5ErrorP", "notFound"]
+- ["s5ErrorP", "unAuthorized"]
+- !private ["s25ExpressibleByArrayLiteralP", "compactMap"]
+- !private ["s25ExpressibleByArrayLiteralP", "count"]
+- ["s25ExpressibleByArrayLiteralP", "init"]
+- !private ["s27ExpressibleByBooleanLiteralP", "_getBuiltinLogicValue"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s23ExpressibleByNilLiteralP", "normal"]
+- !private ["s26ExpressibleByStringLiteralP", "init"]
+- !private ["s26ExpressibleByStringLiteralP", "init"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "init"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "init"]
+- ["9NYTSample9APIClientC24GetArticlesFailureReasonO", "String"]
+- !private ["9NYTSample9APIClientC24GetArticlesFailureReasonO", "getErrorMessage"]
+- ["9NYTSample9APIClientC24GetArticlesFailureReasonO", "notFound"]
+- ["9NYTSample9APIClientC24GetArticlesFailureReasonO", "unAuthorized"]
+- !private ["SH", "_getBuiltinLogicValue"]
+- !private ["SH", "compactMap"]
+- !private ["SH", "count"]
+- !private ["SH", "getErrorMessage"]
+- ["SH", "init"]
+- !private ["SH", "init"]
+- !private ["SH", "normal"]
+- ["SH", "notFound"]
+- ["SH", "unAuthorized"]
+- !private ["s25LosslessStringConvertibleP", "_getBuiltinLogicValue"]
+- !private ["s25LosslessStringConvertibleP", "init"]
+- !private ["s25LosslessStringConvertibleP", "init"]
+- !private ["s10MirrorPathP", "init"]
+- !private ["s10MirrorPathP", "init"]
+- !private ["SM", "compactMap"]
+- !private ["SM", "count"]
+- ["SM", "init"]
+- !private ["Sq", "normal"]
+- !private ["Sk", "compactMap"]
+- !private ["Sk", "count"]
+- ["Sk", "init"]
+- !private ["Sm", "compactMap"]
+- !private ["Sm", "count"]
+- ["Sm", "init"]
+- !private ["Sm", "init"]
+- !private ["SY", "getErrorMessage"]
+- ["SY", "notFound"]
+- ["SY", "unAuthorized"]
+- !private ["9NYTSample6ResultO", "failure"]
+- !private ["9NYTSample6ResultO", "success"]
+- !private ["ST", "compactMap"]
+- !private ["ST", "count"]
+- ["ST", "init"]
+- !private ["ST", "init"]
+- !private ["SS", "init"]
+- !private ["SS", "init"]
+- !private ["Sy", "init"]
+- !private ["Sy", "init"]
+- !private ["s16TextOutputStreamP", "init"]
+- !private ["s16TextOutputStreamP", "init"]
+- !private ["s20TextOutputStreamableP", "init"]
+- !private ["s20TextOutputStreamableP", "init"]
+- !private ["9Alamofire14URLConvertibleP", "init"]
+- !private ["9Alamofire14URLConvertibleP", "init"]
+- !private ["s24_DestructorSafeContainerP", "compactMap"]
+- !private ["s24_DestructorSafeContainerP", "count"]
+- ["s24_DestructorSafeContainerP", "init"]
+- !private ["s35_ExpressibleByBuiltinBooleanLiteralP", "_getBuiltinLogicValue"]
+- !private ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "init"]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "init"]
+- !private ["s39_ExpressibleByBuiltinUTF16StringLiteralP", "init"]
+- !private ["s39_ExpressibleByBuiltinUTF16StringLiteralP", "init"]
+- !private ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "init"]
+- !private ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "init"]
+- !private ["s33_ExpressibleByStringInterpolationP", "init"]
+- !private ["s33_ExpressibleByStringInterpolationP", "init"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "compactMap"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "count"]
+- ["s35_HasCustomAnyHashableRepresentationP", "init"]
+- !private ["s21_ObjectiveCBridgeableP", "_getBuiltinLogicValue"]
+- !private ["s21_ObjectiveCBridgeableP", "compactMap"]
+- !private ["s21_ObjectiveCBridgeableP", "count"]
+- ["s21_ObjectiveCBridgeableP", "init"]
+- !private ["s21_ObjectiveCBridgeableP", "init"]
+- !private ["s21_ObjectiveCBridgeableP", "normal"]
+- !private ["s16_SwiftStringViewP", "init"]
+- !private ["s16_SwiftStringViewP", "init"]
+depends-nominal:
+- "9NYTSample9APIClientC"
+- "Sa"
+- "s13ArrayProtocolP"
+- !private "9NYTSample12ArticleModelV"
+- !private "9NYTSample15ArticleResponseV"
+- "9NYTSample22ArticlesTableViewModelC07ArticlecD8CellTypeO"
+- "9NYTSample22ArticlesTableViewModelC"
+- "SK"
+- "9NYTSample8BindableC"
+- !private "Sb"
+- "s7CVarArgP"
+- "Sl"
+- !private "SL"
+- "s28CustomDebugStringConvertibleP"
+- !private "s29CustomPlaygroundQuickLookableP"
+- "s17CustomReflectableP"
+- "s23CustomStringConvertibleP"
+- "Se"
+- "SE"
+- "SQ"
+- "s5ErrorP"
+- "s25ExpressibleByArrayLiteralP"
+- !private "s27ExpressibleByBooleanLiteralP"
+- !private "s43ExpressibleByExtendedGraphemeClusterLiteralP"
+- !private "s23ExpressibleByNilLiteralP"
+- !private "s26ExpressibleByStringLiteralP"
+- !private "s33ExpressibleByUnicodeScalarLiteralP"
+- "9NYTSample9APIClientC24GetArticlesFailureReasonO"
+- "SH"
+- !private "s25LosslessStringConvertibleP"
+- !private "s10MirrorPathP"
+- "SM"
+- !private "Sq"
+- "Sk"
+- "Sm"
+- "SY"
+- !private "9NYTSample6ResultO"
+- "ST"
+- !private "SS"
+- !private "Sy"
+- !private "s16TextOutputStreamP"
+- !private "s20TextOutputStreamableP"
+- !private "9Alamofire14URLConvertibleP"
+- "s24_DestructorSafeContainerP"
+- !private "s35_ExpressibleByBuiltinBooleanLiteralP"
+- !private "s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP"
+- !private "s34_ExpressibleByBuiltinStringLiteralP"
+- !private "s39_ExpressibleByBuiltinUTF16StringLiteralP"
+- !private "s41_ExpressibleByBuiltinUnicodeScalarLiteralP"
+- !private "s33_ExpressibleByStringInterpolationP"
+- "s35_HasCustomAnyHashableRepresentationP"
+- "s21_ObjectiveCBridgeableP"
+- !private "s16_SwiftStringViewP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.apinotesc"
+- "/Users/hauyadav/Learn/nysample/NYTSample/Build/Build/Products/Debug-iphonesimulator/PKHUD/PKHUD.framework/Modules/PKHUD.swiftmodule/x86_64.swiftmodule"
+- "/Users/hauyadav/Learn/nysample/NYTSample/Build/Build/Products/Debug-iphonesimulator/Alamofire/Alamofire.framework/Modules/Alamofire.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/QuartzCore.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Metal.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Users/hauyadav/Learn/nysample/NYTSample/Build/Build/Products/Debug-iphonesimulator/PKHUD/PKHUD.framework/Headers/PKHUD.h"
+- "/Users/hauyadav/Learn/nysample/NYTSample/Build/Build/Products/Debug-iphonesimulator/SDWebImage/SDWebImage.framework/Headers/UIImage+GIF.h"
+- "/Users/hauyadav/Learn/nysample/NYTSample/Build/Build/Products/Debug-iphonesimulator/PKHUD/PKHUD.framework/Headers/PKHUD-umbrella.h"
+- "/Users/hauyadav/Learn/nysample/NYTSample/Build/Build/Products/Debug-iphonesimulator/SDWebImage/SDWebImage.framework/Headers/SDWebImage-umbrella.h"
+- "/Users/hauyadav/Learn/nysample/NYTSample/Build/Build/Products/Debug-iphonesimulator/Alamofire/Alamofire.framework/Headers/Alamofire-umbrella.h"
+- "/Users/hauyadav/Learn/nysample/NYTSample/Build/Build/Products/Debug-iphonesimulator/SDWebImage/SDWebImage.framework/Headers/UIButton+WebCache.h"
+- "/Users/hauyadav/Learn/nysample/NYTSample/Build/Build/Products/Debug-iphonesimulator/SDWebImage/SDWebImage.framework/Headers/UIImageView+WebCache.h"
+- "/Users/hauyadav/Learn/nysample/NYTSample/Build/Build/Products/Debug-iphonesimulator/SDWebImage/SDWebImage.framework/Headers/UIImageView+HighlightedWebCache.h"
+- "/Users/hauyadav/Learn/nysample/NYTSample/Build/Build/Products/Debug-iphonesimulator/SDWebImage/SDWebImage.framework/Headers/SDImageCache.h"
+- "/Users/hauyadav/Learn/nysample/NYTSample/Build/Build/Products/Debug-iphonesimulator/SDWebImage/SDWebImage.framework/Headers/NSData+ImageContentType.h"
+- "/Users/hauyadav/Learn/nysample/NYTSample/Build/Build/Products/Debug-iphonesimulator/SDWebImage/SDWebImage.framework/Headers/SDWebImageOperation.h"
+- "/Users/hauyadav/Learn/nysample/NYTSample/Build/Build/Products/Debug-iphonesimulator/SDWebImage/SDWebImage.framework/Headers/UIView+WebCacheOperation.h"
+- "/Users/hauyadav/Learn/nysample/NYTSample/Build/Build/Products/Debug-iphonesimulator/SDWebImage/SDWebImage.framework/Headers/SDWebImageDownloaderOperation.h"
+- "/Users/hauyadav/Learn/nysample/NYTSample/Build/Build/Products/Debug-iphonesimulator/SDWebImage/SDWebImage.framework/Headers/SDWebImageDownloader.h"
+- "/Users/hauyadav/Learn/nysample/NYTSample/Build/Build/Products/Debug-iphonesimulator/SDWebImage/SDWebImage.framework/Headers/SDWebImageDecoder.h"
+- "/Users/hauyadav/Learn/nysample/NYTSample/Build/Build/Products/Debug-iphonesimulator/SDWebImage/SDWebImage.framework/Headers/SDWebImageManager.h"
+- "/Users/hauyadav/Learn/nysample/NYTSample/Build/Build/Products/Debug-iphonesimulator/SDWebImage/SDWebImage.framework/Headers/SDWebImagePrefetcher.h"
+- "/Users/hauyadav/Learn/nysample/NYTSample/Build/Build/Products/Debug-iphonesimulator/SDWebImage/SDWebImage.framework/Headers/UIImage+MultiFormat.h"
+- "/Users/hauyadav/Learn/nysample/NYTSample/Build/Build/Products/Debug-iphonesimulator/SDWebImage/SDWebImage.framework/Headers/SDWebImageCompat.h"
+- "/Users/hauyadav/Learn/nysample/NYTSample/Build/Build/Products/Debug-iphonesimulator/PKHUD/PKHUD.framework/Headers/PKHUD-Swift.h"
+- "/Users/hauyadav/Learn/nysample/NYTSample/Build/Build/Products/Debug-iphonesimulator/Alamofire/Alamofire.framework/Headers/Alamofire-Swift.h"
+- "/Users/hauyadav/Learn/nysample/NYTSample/Build/Build/Products/Debug-iphonesimulator/PKHUD/PKHUD.framework/Modules/module.modulemap"
+- "/Users/hauyadav/Learn/nysample/NYTSample/Build/Build/Products/Debug-iphonesimulator/SDWebImage/SDWebImage.framework/Modules/module.modulemap"
+- "/Users/hauyadav/Learn/nysample/NYTSample/Build/Build/Products/Debug-iphonesimulator/Alamofire/Alamofire.framework/Modules/module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/OpenGLES.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CoreImage.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "ecf3e479e85fb2f86955ba6b0cbc9162"

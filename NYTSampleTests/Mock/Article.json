@@ -1,0 +1,100 @@
+{
+    "results": {
+        "url": "https:\/\/www.nytimes.com\/interactive\/2018\/10\/02\/us\/politics\/donald-trump-tax-schemes-fred-trump.html",
+        "adx_keywords": "Trump, Donald J;Tax Shelters;Tax Evasion;Trump, Fred C;Frauds and Swindling;Inheritance and Estate Taxes;Appraisals and Valuation (Property);Wills and Estates;United States Politics and Government",
+        "column": "",
+        "section": "U.S.",
+        "byline": "By DAVID BARSTOW, SUSANNE CRAIG and RUSS BUETTNER",
+        "type": "Interactive",
+        "title": "Trump Engaged in Suspect Tax Schemes as He Reaped Riches From His Father",
+        "abstract": "The president has long sold himself as a self-made billionaire, but a Times investigation found that he received at least $413 million in today\u2019s dollars from his father\u2019s real estate empire, much of it through tax dodges in the 1990s.",
+        "published_date": "2018-10-02",
+        "source": "The New York Times",
+        "id": 100000006140728,
+        "asset_id": 100000006140728,
+        "views": 1,
+        "des_facet": [
+            "TAX SHELTERS",
+            "TAX EVASION",
+            "FRAUDS AND SWINDLING",
+            "INHERITANCE AND ESTATE TAXES",
+            "APPRAISALS AND VALUATION (PROPERTY)",
+            "WILLS AND ESTATES",
+            "UNITED STATES POLITICS AND GOVERNMENT"
+        ],
+        "org_facet": "",
+        "per_facet": [
+            "TRUMP, DONALD J",
+            "TRUMP, FRED C"
+        ],
+        "geo_facet": "",
+        "media": [{
+            "type": "image",
+            "subtype": "photo",
+            "caption": "",
+            "copyright": "Jeffery A. Salter\/The New York Times",
+            "approved_for_syndication": 1,
+            "media-metadata": [{
+                "url": "https:\/\/static01.nyt.com\/images\/2018\/10\/07\/us\/fred-trump-inv-promo-image\/fred-trump-inv-promo-image-square320.jpg",
+                "format": "square320",
+                "height": 320,
+                "width": 320
+            },
+            {
+                "url": "https:\/\/static01.nyt.com\/images\/2018\/10\/07\/us\/fred-trump-inv-promo-image\/fred-trump-inv-promo-image-thumbStandard.jpg",
+                "format": "Standard Thumbnail",
+                "height": 75,
+                "width": 75
+            },
+            {
+                "url": "https:\/\/static01.nyt.com\/images\/2018\/10\/07\/us\/fred-trump-inv-promo-image\/fred-trump-inv-promo-image-articleInline.jpg",
+                "format": "Normal",
+                "height": 127,
+                "width": 190
+            },
+            {
+                "url": "https:\/\/static01.nyt.com\/images\/2018\/10\/07\/us\/fred-trump-inv-promo-image\/fred-trump-inv-promo-image-sfSpan.jpg",
+                "format": "Large",
+                "height": 263,
+                "width": 395
+            },
+            {
+                "url": "https:\/\/static01.nyt.com\/images\/2018\/10\/07\/us\/fred-trump-inv-promo-image\/fred-trump-inv-promo-image-jumbo.jpg",
+                "format": "Jumbo",
+                "height": 683,
+                "width": 1024
+            },
+            {
+                "url": "https:\/\/static01.nyt.com\/images\/2018\/10\/07\/us\/fred-trump-inv-promo-image\/fred-trump-inv-promo-image-superJumbo.jpg",
+                "format": "superJumbo",
+                "height": 912,
+                "width": 1368
+            },
+            {
+                "url": "https:\/\/static01.nyt.com\/images\/2018\/10\/07\/us\/fred-trump-inv-promo-image\/fred-trump-inv-promo-image-square640.jpg",
+                "format": "square640",
+                "height": 640,
+                "width": 640
+            },
+            {
+                "url": "https:\/\/static01.nyt.com\/images\/2018\/10\/07\/us\/fred-trump-inv-promo-image\/fred-trump-inv-promo-image-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150
+            },
+            {
+                "url": "https:\/\/static01.nyt.com\/images\/2018\/10\/07\/us\/fred-trump-inv-promo-image\/fred-trump-inv-promo-image-mediumThreeByTwo210-v2.jpg",
+                "format": "mediumThreeByTwo210",
+                "height": 140,
+                "width": 210
+            },
+            {
+                "url": "https:\/\/static01.nyt.com\/images\/2018\/10\/07\/us\/fred-trump-inv-promo-image\/fred-trump-inv-promo-image-mediumThreeByTwo440-v2.jpg",
+                "format": "mediumThreeByTwo440",
+                "height": 293,
+                "width": 440
+            }
+            ]
+        }]
+    }
+}

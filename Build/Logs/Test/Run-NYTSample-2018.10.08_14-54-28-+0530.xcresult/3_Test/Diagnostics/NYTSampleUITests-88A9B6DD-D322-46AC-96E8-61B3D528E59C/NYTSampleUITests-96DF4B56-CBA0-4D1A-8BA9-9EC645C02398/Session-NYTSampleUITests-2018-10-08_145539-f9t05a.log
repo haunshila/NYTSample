@@ -1,0 +1,88 @@
+14:55:39.894 xcodebuild[87859:1218164] Beginning test session NYTSampleUITests-5B48DE82-32C4-4F16-A335-ED67FC81E1C0 at 2018-10-08 14:55:39.894 with Xcode 10A255 on target <DVTiPhoneSimulator: 0x7fadf89acf70> {
+		SimDevice: iPhone XS (71F5F542-D0A8-473C-9CE9-CF30AFCE9548, iOS 12.0, Booted)
+} (12.0 (16A366))
+14:55:39.894 xcodebuild[87859:1218164] 	/Applications/Xcode.app/Contents/Developer/usr/bin/xcodebuild
+-workspace
+NYTSample.xcworkspace/
+-scheme
+NYTSample
+-derivedDataPath
+Build/
+-destination
+platform=iOS Simulator,OS=12.0,name=iPhone XS
+-enableCodeCoverage
+YES
+clean
+build
+test
+CODE_SIGN_IDENTITY=
+CODE_SIGNING_REQUIRED=NO
+14:55:39.894 xcodebuild[87859:1218164] Launching with Xcode.IDEFoundation.Launcher.PosixSpawn
+14:55:39.895 xcodebuild[87859:1218164] Test standard output and standard error is at /Users/hauyadav/Learn/nysample/NYTSample/Build/Logs/Test/Run-NYTSample-2018.10.08_14-54-28-+0530.xcresult/3_Test/Diagnostics/NYTSampleUITests-88A9B6DD-D322-46AC-96E8-61B3D528E59C/NYTSampleUITests-96DF4B56-CBA0-4D1A-8BA9-9EC645C02398/StandardOutputAndStandardError.txt
+14:55:39.899 xcodebuild[87859:1218164] Setting up test runner session
+14:55:39.899 xcodebuild[87859:1221535] Sim iPhone XS: Unregistering for sim device notification with token 11
+14:55:39.899 xcodebuild[87859:1221535] Calling -[SimDevice getenv:error:] for TESTMANAGERD_SIM_SOCK
+14:55:39.900 xcodebuild[87859:1221535] Sim iPhone XS has testmanagerd socket at /private/tmp/com.apple.launchd.MNWqFg1COX/com.apple.testmanagerd.unix-domain.socket
+14:55:39.900 xcodebuild[87859:1221535] Validating test connection socket path (/private/tmp/com.apple.launchd.MNWqFg1COX/com.apple.testmanagerd.unix-domain.socket)
+14:55:39.900 xcodebuild[87859:1221535] Constructing transport for test connection socket
+14:55:39.900 xcodebuild[87859:1221535] Connected socket 26 to testmanagerd for Sim iPhone XS
+14:55:39.900 xcodebuild[87859:1218164] Launch session started.
+14:55:39.900 xcodebuild[87859:1221702] Received connection for test runner session
+14:55:39.900 xcodebuild[87859:1221702] Listening for proxy connection request from the test bundle
+14:55:39.901 xcodebuild[87859:1221702] Initiating session with identifier: 5B48DE82-32C4-4F16-A335-ED67FC81E1C0
+14:55:39.901 xcodebuild[87859:1218164] Test runner session acquired connection.
+14:55:39.901 xcodebuild[87859:1218164] Waiting for test process to launch.
+14:55:39.902 xcodebuild[87859:1221716] 📱<DVTiPhoneSimulator (0x7fadf89acf70), iPhone XS, unknown class, 12.0 (16A366), 71F5F542-D0A8-473C-9CE9-CF30AFCE9548> simulator was claimed by LaunchSessionClaim_0x7fadf93184f0
+14:55:39.902 xcodebuild[87859:1221535] Got reply to session initiation request with identifier 5B48DE82-32C4-4F16-A335-ED67FC81E1C0 (result:error): 29: (null)
+14:55:39.903 xcodebuild[87859:1221541] 📱<DVTiPhoneSimulator (0x7fadf89acf70), iPhone XS, unknown class, 12.0 (16A366), 71F5F542-D0A8-473C-9CE9-CF30AFCE9548> simulator was claimed by LaunchSessionClaim_0x7fadf93184f0
+14:55:39.904 xcodebuild[87859:1221541] 71F5F542-D0A8-473C-9CE9-CF30AFCE9548: Registered for sim device notification, got token 14
+14:55:39.904 xcodebuild[87859:1221716] 71F5F542-D0A8-473C-9CE9-CF30AFCE9548: Unregistering for sim device notification with token 14
+14:55:39.904 xcodebuild[87859:1221716] 71F5F542-D0A8-473C-9CE9-CF30AFCE9548: Installing app at path: /Users/hauyadav/Learn/nysample/NYTSample/Build/Build/Products/Debug-iphonesimulator/NYTSampleUITests-Runner.app and options: (null)
+14:55:41.159 xcodebuild[87859:1221716] 71F5F542-D0A8-473C-9CE9-CF30AFCE9548: Installed app at path: /Users/hauyadav/Learn/nysample/NYTSample/Build/Build/Products/Debug-iphonesimulator/NYTSampleUITests-Runner.app and options: (null)
+14:55:41.160 xcodebuild[87859:1221716] 71F5F542-D0A8-473C-9CE9-CF30AFCE9548: Launching app with identifier: com.apple.test.NYTSampleUITests-Runner and options: {
+    "activate_suspended" = 1;
+    arguments =     (
+        "-NSTreatUnknownArgumentsAsOpen",
+        NO,
+        "-ApplePersistenceIgnoreState",
+        YES
+    );
+    environment =     {
+        "CA_ASSERT_MAIN_THREAD_TRANSACTIONS" = 0;
+        "CA_DEBUG_TRANSACTIONS" = 0;
+        "DYLD_FRAMEWORK_PATH" = "/Users/hauyadav/Learn/nysample/NYTSample/Build/Build/Products/Debug-iphonesimulator::/Users/hauyadav/Learn/nysample/NYTSample/Build/Build/Products/Debug-iphonesimulator:";
+        "DYLD_INSERT_LIBRARIES" = "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/iOS.simruntime/Contents/Resources/RuntimeRoot/usr/lib/libMainThreadChecker.dylib:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/iOS.simruntime/Contents/Resources/RuntimeRoot/usr/lib/libMainThreadChecker.dylib";
+        "DYLD_LIBRARY_PATH" = "/Users/hauyadav/Learn/nysample/NYTSample/Build/Build/Products/Debug-iphonesimulator:/Users/hauyadav/Learn/nysample/NYTSample/Build/Build/Products/Debug-iphonesimulator";
+        "LLVM_PROFILE_FILE" = "/var/folders/g7/njkpv1g54js47q31tdp35yth0000gn/T/com.apple.test.NYTSampleUITests-Runner/0C2E6A6D-5ABF-4E67-B7B2-CA0649F489B3-87859-00002AD2C5E7CA1F/A446D0F7-2C33-4F84-9D78-94EB5CCB23B6-%p.profraw%15x";
+        "MTC_CRASH_ON_REPORT" = 1;
+        NSApplicationQuitWithoutSuddenTermination = YES;
+        NSUnbufferedIO = YES;
+        "OS_ACTIVITY_DT_MODE" = YES;
+        "SQLITE_ENABLE_THREAD_ASSERTIONS" = 1;
+        XCTestConfigurationFilePath = "/Users/hauyadav/Learn/nysample/NYTSample/Build/Logs/Test/Run-NYTSample-2018.10.08_14-54-28-+0530.xcresult/3_Test/Diagnostics/NYTSampleUITests-88A9B6DD-D322-46AC-96E8-61B3D528E59C/NYTSampleUITests-96DF4B56-CBA0-4D1A-8BA9-9EC645C02398/LaunchSessions/5B48DE82-32C4-4F16-A335-ED67FC81E1C0/remote-container/tmp/NYTSampleUITests-5B48DE82-32C4-4F16-A335-ED67FC81E1C0.xctestconfiguration";
+        "__XCODE_BUILT_PRODUCTS_DIR_PATHS" = "/Users/hauyadav/Learn/nysample/NYTSample/Build/Build/Products/Debug-iphonesimulator";
+        "__XPC_DYLD_FRAMEWORK_PATH" = "/Users/hauyadav/Learn/nysample/NYTSample/Build/Build/Products/Debug-iphonesimulator:/Users/hauyadav/Learn/nysample/NYTSample/Build/Build/Products/Debug-iphonesimulator";
+        "__XPC_DYLD_LIBRARY_PATH" = "/Users/hauyadav/Learn/nysample/NYTSample/Build/Build/Products/Debug-iphonesimulator:/Users/hauyadav/Learn/nysample/NYTSample/Build/Build/Products/Debug-iphonesimulator";
+        "__XPC_LLVM_PROFILE_FILE" = "/var/folders/g7/njkpv1g54js47q31tdp35yth0000gn/T/com.apple.test.NYTSampleUITests-Runner/0C2E6A6D-5ABF-4E67-B7B2-CA0649F489B3-87859-00002AD2C5E7CA1F/A446D0F7-2C33-4F84-9D78-94EB5CCB23B6-%p.profraw%15x";
+    };
+    stderr = "/dev/ttys003";
+    stdout = "/dev/ttys003";
+    "wait_for_debugger" = 0;
+}
+14:55:41.193 xcodebuild[87859:1221541] 71F5F542-D0A8-473C-9CE9-CF30AFCE9548: Launched app with identifier: com.apple.test.NYTSampleUITests-Runner (pid = 88823)
+14:55:41.193 xcodebuild[87859:1221541] 📱<DVTiPhoneSimulator (0x7fadf89acf70), iPhone XS, unknown class, 12.0 (16A366), 71F5F542-D0A8-473C-9CE9-CF30AFCE9548> tracking pid 88823
+14:55:41.193 xcodebuild[87859:1221541] 📱<DVTiPhoneSimulator (0x7fadf89acf70), iPhone XS, unknown class, 12.0 (16A366), 71F5F542-D0A8-473C-9CE9-CF30AFCE9548> checking to see if pid 88823 is valid: kill(pid, 0) = 0 (YES, it's still running)
+14:55:41.193 xcodebuild[87859:1218164] Test process runnable PID is 88823.
+2018-10-08 14:55:41.419026+0530 NYTSampleUITests-Runner[88823:1221804] +[CATransaction synchronize] called within transaction
+2018-10-08 14:55:41.431248+0530 NYTSampleUITests-Runner[88823:1221804] Running tests...
+2018-10-08 14:55:41.476608+0530 NYTSampleUITests-Runner[88823:1221804] The bundle “NYTSampleUITests” couldn’t be loaded because it is damaged or missing necessary resources. Try reinstalling the bundle.
+2018-10-08 14:55:41.476800+0530 NYTSampleUITests-Runner[88823:1221804] (dlopen_preflight(/Users/hauyadav/Learn/nysample/NYTSample/Build/Build/Products/Debug-iphonesimulator/NYTSampleUITests-Runner.app/PlugIns/NYTSampleUITests.xctest/NYTSampleUITests): Library not loaded: @rpath/libswiftSwiftOnoneSupport.dylib
+  Referenced from: /Users/hauyadav/Learn/nysample/NYTSample/Build/Build/Products/Debug-iphonesimulator/NYTSampleUITests-Runner.app/PlugIns/NYTSampleUITests.xctest/Frameworks/Alamofire.framework/Alamofire
+  Reason: image not found)
+14:55:41.487 xcodebuild[87859:1218164] 📱<DVTiPhoneSimulator (0x7fadf89acf70), iPhone XS, unknown class, 12.0 (16A366), 71F5F542-D0A8-473C-9CE9-CF30AFCE9548> got death notice for pid 88823, removing from SimulatorSessionMap
+14:55:41.488 xcodebuild[87859:1218164] 📱<DVTiPhoneSimulator (0x7fadf89acf70), iPhone XS, unknown class, 12.0 (16A366), 71F5F542-D0A8-473C-9CE9-CF30AFCE9548> claim LaunchSessionClaim_0x7fadf93184f0 on simulator was relinquished
+14:55:41.488 xcodebuild[87859:1218164] 📱<DVTiPhoneSimulator (0x7fadf89acf70), iPhone XS, unknown class, 12.0 (16A366), 71F5F542-D0A8-473C-9CE9-CF30AFCE9548> claim LaunchSessionClaim_0x7fadf93184f0 on simulator was relinquished
+14:55:41.742 xcodebuild[87859:1218164] <IDETestOperationCoordinator: 0x7fadf964a730> finished receiving data from testing launch session
+14:55:41.742 xcodebuild[87859:1218164] <IDETestOperationCoordinator: 0x7fadf964a730>: _considerFlushingDelegateBlockQueue - nothing to flush
+14:55:48.489 xcodebuild[87859:1218164] Test operation failure: Test runner exited before starting test execution.
+14:55:48.489 xcodebuild[87859:1218164] _finishWithError:Error Domain=IDETestOperationsObserverErrorDomain Code=5 "Test runner exited before starting test execution." UserInfo={NSLocalizedDescription=Test runner exited before starting test execution.}

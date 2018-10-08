@@ -1,0 +1,6 @@
+2018-10-08 14:55:41.419026+0530 NYTSampleUITests-Runner[88823:1221804] +[CATransaction synchronize] called within transaction
+2018-10-08 14:55:41.431248+0530 NYTSampleUITests-Runner[88823:1221804] Running tests...
+2018-10-08 14:55:41.476608+0530 NYTSampleUITests-Runner[88823:1221804] The bundle “NYTSampleUITests” couldn’t be loaded because it is damaged or missing necessary resources. Try reinstalling the bundle.
+2018-10-08 14:55:41.476800+0530 NYTSampleUITests-Runner[88823:1221804] (dlopen_preflight(/Users/hauyadav/Learn/nysample/NYTSample/Build/Build/Products/Debug-iphonesimulator/NYTSampleUITests-Runner.app/PlugIns/NYTSampleUITests.xctest/NYTSampleUITests): Library not loaded: @rpath/libswiftSwiftOnoneSupport.dylib
+  Referenced from: /Users/hauyadav/Learn/nysample/NYTSample/Build/Build/Products/Debug-iphonesimulator/NYTSampleUITests-Runner.app/PlugIns/NYTSampleUITests.xctest/Frameworks/Alamofire.framework/Alamofire
+  Reason: image not found)

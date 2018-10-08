@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>9</integer>
+	<key>logs</key>
+	<dict>
+		<key>4D896A7E-EC55-4C23-9AFF-0C35A373720C</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>9D0EEF90-8F80-4F0E-8FB9-2EAEB8777CD8</string>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.unit.cocoaUnitTest</string>
+			<key>fileName</key>
+			<string>Run-NYTSample-2018.10.08_14-47-03-+0530.xcresult</string>
+			<key>highLevelStatus</key>
+			<string>E</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>NYTSample project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>NYTSample</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Run NYTSample</string>
+			<key>timeStartedRecording</key>
+			<real>560683023.46458006</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run NYTSample</string>
+			<key>uniqueIdentifier</key>
+			<string>4D896A7E-EC55-4C23-9AFF-0C35A373720C</string>
+		</dict>
+		<key>EF023B32-8847-496B-A500-4E4FC9E52EC6</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>C1855F88-0649-4B00-8B6C-93FAE100A935</string>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.unit.cocoaUnitTest</string>
+			<key>fileName</key>
+			<string>Run-NYTSample-2018.10.08_14-54-28-+0530.xcresult</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>NYTSample project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>NYTSample</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Run NYTSample</string>
+			<key>timeStartedRecording</key>
+			<real>560683468.25999701</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run NYTSample</string>
+			<key>uniqueIdentifier</key>
+			<string>EF023B32-8847-496B-A500-4E4FC9E52EC6</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

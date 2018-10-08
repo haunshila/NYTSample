@@ -1,0 +1,20 @@
+version: "Apple Swift version 4.2 (swiftlang-1000.11.37.1 clang-1000.11.45.1)"
+options: "94d1762b2c31d7ec2d19b8c955b77d3e"
+build_time: [1538990683, 938032000]
+inputs:
+  "/Users/hauyadav/Learn/nysample/NYTSample/Pods/PKHUD/PKHUD/FrameView.swift": [1538934407, 0]
+  "/Users/hauyadav/Learn/nysample/NYTSample/Pods/PKHUD/PKHUD/HUD.swift": [1538934407, 0]
+  "/Users/hauyadav/Learn/nysample/NYTSample/Pods/PKHUD/PKHUD/PKHUD.swift": [1538934407, 0]
+  "/Users/hauyadav/Learn/nysample/NYTSample/Pods/PKHUD/PKHUD/PKHUDAnimating.swift": [1538934407, 0]
+  "/Users/hauyadav/Learn/nysample/NYTSample/Pods/PKHUD/PKHUD/PKHUDAnimation.swift": [1538934407, 0]
+  "/Users/hauyadav/Learn/nysample/NYTSample/Pods/PKHUD/PKHUD/PKHUDAssets.swift": [1538934407, 0]
+  "/Users/hauyadav/Learn/nysample/NYTSample/Pods/PKHUD/PKHUD/PKHUDErrorView.swift": [1538934407, 0]
+  "/Users/hauyadav/Learn/nysample/NYTSample/Pods/PKHUD/PKHUD/PKHUDProgressView.swift": [1538934407, 0]
+  "/Users/hauyadav/Learn/nysample/NYTSample/Pods/PKHUD/PKHUD/PKHUDRotatingImageView.swift": [1538934407, 0]
+  "/Users/hauyadav/Learn/nysample/NYTSample/Pods/PKHUD/PKHUD/PKHUDSquareBaseView.swift": [1538934407, 0]
+  "/Users/hauyadav/Learn/nysample/NYTSample/Pods/PKHUD/PKHUD/PKHUDSuccessView.swift": [1538934407, 0]
+  "/Users/hauyadav/Learn/nysample/NYTSample/Pods/PKHUD/PKHUD/PKHUDSystemActivityIndicatorView.swift": [1538934407, 0]
+  "/Users/hauyadav/Learn/nysample/NYTSample/Pods/PKHUD/PKHUD/PKHUDTextView.swift": [1538934407, 0]
+  "/Users/hauyadav/Learn/nysample/NYTSample/Pods/PKHUD/PKHUD/PKHUDWideBaseView.swift": [1538934407, 0]
+  "/Users/hauyadav/Learn/nysample/NYTSample/Pods/PKHUD/PKHUD/Window.swift": [1538934407, 0]
+  "/Users/hauyadav/Learn/nysample/NYTSample/Pods/PKHUD/PKHUD/WindowRootViewController.swift": [1538934407, 0]

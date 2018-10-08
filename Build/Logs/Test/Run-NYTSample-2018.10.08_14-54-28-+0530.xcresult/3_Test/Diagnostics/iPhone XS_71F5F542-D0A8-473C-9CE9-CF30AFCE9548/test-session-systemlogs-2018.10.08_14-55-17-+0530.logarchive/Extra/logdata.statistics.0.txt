@@ -1,0 +1,26 @@
+--- !logd statistics record
+type  : Memory Rollover
+time  : 2018-10-08 14:40:05+0530
+total : 12267020
+procs :
+    - [    2154717,  17.6, /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/iOS.simruntime/Contents/Resources/RuntimeRoot/System/Library/CoreServices/SpringBoard.app/SpringBoard ]
+    - [     990392,   8.1, /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/iOS.simruntime/Contents/Resources/RuntimeRoot/usr/libexec/locationd ]
+    - [     784719,   6.4, /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/iOS.simruntime/Contents/Resources/RuntimeRoot/usr/libexec/pkd ]
+    - [     730853,   6.0, /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/iOS.simruntime/Contents/Resources/RuntimeRoot/usr/libexec/nsurlsessiond ]
+    - [     686478,   5.6, /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/iOS.simruntime/Contents/Resources/RuntimeRoot/System/Library/PrivateFrameworks/GeoServices.framework/geod ]
+    - [     487402,   4.0, /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/iOS.simruntime/Contents/Resources/RuntimeRoot/System/Library/PrivateFrameworks/AssistantServices.framework/assistantd ]
+    - [     480002,   3.9, /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/iOS.simruntime/Contents/Resources/RuntimeRoot/System/Library/PrivateFrameworks/Accessibility.framework/Frameworks/AccessibilityUI.framework/XPCServices/com.apple.accessibility.AccessibilityUIServer.xpc/com.apple.accessibility.AccessibilityUIServer ]
+    - [     428496,   3.5, /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/iOS.simruntime/Contents/Resources/RuntimeRoot/System/Library/PrivateFrameworks/Search.framework/searchd ]
+    - [     382073,   3.1, /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/iOS.simruntime/Contents/Resources/RuntimeRoot/usr/libexec/assertiond ]
+    - [     346880,   2.8, /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/iOS.simruntime/Contents/Resources/RuntimeRoot/usr/libexec/mobileassetd ]
+    - [     322445,   2.6, /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/iOS.simruntime/Contents/Resources/RuntimeRoot/usr/libexec/UserEventAgent ]
+    - [     286264,   2.3, /Users/hauyadav/Library/Developer/CoreSimulator/Devices/71F5F542-D0A8-473C-9CE9-CF30AFCE9548/data/Containers/Bundle/Application/2EA254CD-1FF8-4F3E-86DE-DAEE6C66CBA4/NYTSample.app/NYTSample ]
+    - [     200168,   1.6, /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/iOS.simruntime/Contents/Resources/RuntimeRoot/System/Library/PrivateFrameworks/CalendarDaemon.framework/Support/calaccessd ]
+    - [     164453,   1.3, /Users/hauyadav/Library/Developer/CoreSimulator/Devices/71F5F542-D0A8-473C-9CE9-CF30AFCE9548/data/Containers/Bundle/Application/5D129715-9E23-40C5-8C91-5C7B610AF0FC/NYTSample.app/NYTSample ]
+    - [     159692,   1.3, /Users/hauyadav/Library/Developer/CoreSimulator/Devices/71F5F542-D0A8-473C-9CE9-CF30AFCE9548/data/Containers/Bundle/Application/436F1CF7-9A90-46EC-9A80-5962C135FC8B/NYTSample.app/NYTSample ]
+    - [     155663,   1.3, /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/iOS.simruntime/Contents/Resources/RuntimeRoot/System/Library/Frameworks/FileProvider.framework/Support/fileproviderd ]
+    - [     150074,   1.2, /Users/hauyadav/Library/Developer/CoreSimulator/Devices/71F5F542-D0A8-473C-9CE9-CF30AFCE9548/data/Containers/Bundle/Application/D954CA03-94BF-48DF-BB8A-1034BDBE8451/NYTSample.app/NYTSample ]
+    - [     149569,   1.2, /Users/hauyadav/Library/Developer/CoreSimulator/Devices/71F5F542-D0A8-473C-9CE9-CF30AFCE9548/data/Containers/Bundle/Application/194B26D9-8BDA-41E6-A6AA-A0783B990B60/NYTSample.app/NYTSample ]
+    - [     148752,   1.2, /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/iOS.simruntime/Contents/Resources/RuntimeRoot/System/Library/PrivateFrameworks/FamilyCircle.framework/familycircled ]
+    - [     136230,   1.1, /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/iOS.simruntime/Contents/Resources/RuntimeRoot/System/Library/PrivateFrameworks/iTunesStore.framework/Support/itunesstored ]
+

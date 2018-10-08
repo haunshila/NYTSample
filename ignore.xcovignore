@@ -1,0 +1,21 @@
+# Api files
+
+# Managers
+
+# Utils
+- Alert.swift
+- Result.swift
+- Constant.swift
+- JSON.swift
+-CircleImage.swift
+
+
+
+# Exclude all files ending by "View.swift"
+- .*View.swift
+- .*ViewCell.swift
+- .*ViewController.swift
+
+# Exclude all dependencies
+- Pods
+- Carthage/Checkouts
