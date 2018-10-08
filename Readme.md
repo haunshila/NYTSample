@@ -1,6 +1,8 @@
 **NYTSample**
 Created using MVVM architecture.
 
+To run the project, open "NYTSample.xcworkspace" with Xcode. And Press Play button from top left corner of XCode IDE.
+
 Used 3rd Party SDKs
  - Alamofire -- used for Networking
  - SDWebImage-- used for caching and loading images from network
